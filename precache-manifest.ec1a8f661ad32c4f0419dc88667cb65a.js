@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02b411b198286f65fbfce14df314af42",
+    "revision": "da420e10f4e1e48af2668c1ae2cd2cf6",
     "url": "/ami/index.html"
   },
   {
-    "revision": "bf51efc667e36ed4d4d5",
-    "url": "/ami/static/css/main.5f361e03.chunk.css"
+    "revision": "64a6f29e97d77b607f42",
+    "url": "/ami/static/css/main.4ea81fb9.chunk.css"
   },
   {
-    "revision": "83587c626db27fbf5697",
-    "url": "/ami/static/js/2.f211f276.chunk.js"
+    "revision": "56d53bb7ef3cf9a7b1c4",
+    "url": "/ami/static/js/2.e56e7600.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/ami/static/js/2.f211f276.chunk.js.LICENSE.txt"
+    "url": "/ami/static/js/2.e56e7600.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf51efc667e36ed4d4d5",
-    "url": "/ami/static/js/main.542f88fd.chunk.js"
+    "revision": "64a6f29e97d77b607f42",
+    "url": "/ami/static/js/main.1ccc438f.chunk.js"
   },
   {
     "revision": "8944c9f6c5f31bad450c",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d021b28391bc800b9dbc71ef6ba5813c",
     "url": "/ami/static/media/backsound.d021b283.mp3"
+  },
+  {
+    "revision": "ad618256834cbf329bb425cb6f54f72e",
+    "url": "/ami/static/media/heart.ad618256.svg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
