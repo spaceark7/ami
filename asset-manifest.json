@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ami/static/css/main.4ea81fb9.chunk.css",
+    "main.css": "/ami/static/css/main.691a57dd.chunk.css",
     "main.js": "/ami/static/js/main.1ccc438f.chunk.js",
     "main.js.map": "/ami/static/js/main.1ccc438f.chunk.js.map",
     "runtime-main.js": "/ami/static/js/runtime-main.2c5f0e04.js",
@@ -8,9 +8,9 @@
     "static/js/2.e56e7600.chunk.js": "/ami/static/js/2.e56e7600.chunk.js",
     "static/js/2.e56e7600.chunk.js.map": "/ami/static/js/2.e56e7600.chunk.js.map",
     "index.html": "/ami/index.html",
-    "precache-manifest.ec1a8f661ad32c4f0419dc88667cb65a.js": "/ami/precache-manifest.ec1a8f661ad32c4f0419dc88667cb65a.js",
+    "precache-manifest.75fb7cf6257264476f4cdd34fd044c18.js": "/ami/precache-manifest.75fb7cf6257264476f4cdd34fd044c18.js",
     "service-worker.js": "/ami/service-worker.js",
-    "static/css/main.4ea81fb9.chunk.css.map": "/ami/static/css/main.4ea81fb9.chunk.css.map",
+    "static/css/main.691a57dd.chunk.css.map": "/ami/static/css/main.691a57dd.chunk.css.map",
     "static/js/2.e56e7600.chunk.js.LICENSE.txt": "/ami/static/js/2.e56e7600.chunk.js.LICENSE.txt",
     "static/media/A4.jpg": "/ami/static/media/A4.fb477057.jpg",
     "static/media/intro.css": "/ami/static/media/heart.ad618256.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.2c5f0e04.js",
     "static/js/2.e56e7600.chunk.js",
-    "static/css/main.4ea81fb9.chunk.css",
+    "static/css/main.691a57dd.chunk.css",
     "static/js/main.1ccc438f.chunk.js"
   ]
 }
