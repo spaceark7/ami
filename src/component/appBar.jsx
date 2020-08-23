@@ -46,11 +46,6 @@ export default function ElevateAppBar(props) {
         </AppBar>
       </ElevationScroll>
       <Toolbar />
-      <Container>
-        <Box my={2}>
-          <CustomizedTimeline />
-        </Box>
-      </Container>
     </React.Fragment>
   );
 }
